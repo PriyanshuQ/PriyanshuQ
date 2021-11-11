@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Lets talk about **Software Architecture, Java,**
+- 💬 Lets talk about **Software Architecture, Java, Web Development**
 
 - 📫 How to reach me **assudanipriyanshu@gmail.com**
 
