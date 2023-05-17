@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Priyanshu Assudani</h1>
-![priyanshu assudani2020vitbhopal ac in](https://github.com/PriyanshuQ/PriyanshuQ/assets/80645068/b6029471-2406-4292-85a0-3df20787d347)
+
+<p align="left"> <img src="https://github.com/PriyanshuQ/PriyanshuQ/assets/80645068/b6029471-2406-4292-85a0-3df20787d347" alt="priyanshuq" /> </p>
 
 <h3 align="center">A passionate MERN Stack Developer, covering the full spectrum of front-end and back-end development.</h3>
 
