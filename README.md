@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Priyanshu Assudani</h1>
+<h1 align="center">Hi, I'm Priyanshu Assudani 👋🏼🧑🏻‍💻</h1>
 
 <p align="left"> <img src="https://github.com/PriyanshuQ/PriyanshuQ/assets/80645068/b6029471-2406-4292-85a0-3df20787d347" alt="priyanshuq" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a community project - Edumate**
 
-- 👯 I am seeking to engage in a professional collaboration for **a unique MERN stack project.**
+- 👯 I am seeking to engage in a collaboration for **a unique MERN stack project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyanshuQ](https://github.com/PriyanshuQ)
 
